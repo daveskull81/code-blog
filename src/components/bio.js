@@ -14,7 +14,7 @@ import { rhythm } from "../utils/typography"
 const Bio = () => {
   const data = useStaticQuery(graphql`
     query BioQuery {
-      avatar: file(absolutePath: { regex: "/profile-pic.jpg/" }) {
+      avatar: file(absolutePath: { regex: "/profile-pic.jpeg/" }) {
         childImageSharp {
           fixed(width: 50, height: 50) {
             ...GatsbyImageSharpFixed
@@ -26,13 +26,17 @@ const Bio = () => {
           author
           social {
             twitter
+            linkedin
+          }
+          contact {
+            form
           }
         }
       }
     }
   `)
 
-  const { author, social } = data.site.siteMetadata
+  const { author, social, contact } = data.site.siteMetadata
   return (
     <div
       style={{
@@ -54,12 +58,18 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong> who lives and works in San
-        Francisco building useful things.
+        Hi, my name is <strong>{author}</strong>. I live in Seattle, WA. Here is a collection of my writing about code. I work mostly in Javascript.
         {` `}
-        <a href={`https://twitter.com/${social.twitter}`}>
-          You should follow him on Twitter
+        If you'd like to reach out you can find me on{` `}
+        <a href={`https://twitter.com/${social.twitter}`} target="_blank" rel="noopener noreferrer">
+          Twitter
+        </a>{` `}
+        &amp;{` `}
+        <a href={`https://www.linkedin.com/in/${social.linkedin}`} target="_blank" rel="noopener noreferrer">
+          LinkedIn
         </a>
+        {` `}
+        or fill out my <a href={`${contact.form}`} target="_blank" rel="noopener noreferrer">Contact form</a>.
       </p>
     </div>
   )
