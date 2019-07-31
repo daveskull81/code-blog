@@ -58,8 +58,12 @@ const Bio = () => {
         }}
       />
       <p>
-        Hi, my name is <strong>{author}</strong>. I live in Seattle, WA. Here is a collection of my writing about code. I work mostly in Javascript.
-        {` `}
+        Hi, my name is <strong>{author}</strong>. I live in Seattle, WA and I'm a web developer. I love working in Javascript with React, Node.js, and Express. I also love HTML, CSS, Python, and making command line applications.
+        <br></br>
+        <br></br>
+        Here is a collection of my writing about code and the projects I work on.
+        <br></br>
+        <br></br>
         If you'd like to reach out you can find me on{` `}
         <a href={`https://twitter.com/${social.twitter}`} target="_blank" rel="noopener noreferrer">
           Twitter

@@ -3,7 +3,7 @@ module.exports = {
     title: `dAVE Writing About Code`,
     author: `dAVE Inden`,
     description: `A collection of my writing on code and the things I'm learning.`,
-    siteUrl: `https://daveskull.netlify.com`,
+    siteUrl: `https://daveinden.com`,
     social: {
       twitter: `daveskull81`,
       linkedin: `davidinden`
