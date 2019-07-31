@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `dAVE Writing About Code`,
+    title: `dAVE Inden && Code`,
     author: `dAVE Inden`,
     description: `A collection of my writing on code and the things I'm learning.`,
-    siteUrl: `https://daveinden.com`,
+    siteUrl: `https://www.daveinden.com`,
     social: {
       twitter: `daveskull81`,
       linkedin: `davidinden`
@@ -65,7 +65,7 @@ module.exports = {
         short_name: `dAVEIndenBlog`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#000000`,
         display: `minimal-ui`,
         icon: `content/assets/profile-pic.jpeg`,
       },
