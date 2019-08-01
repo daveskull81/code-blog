@@ -8,9 +8,11 @@ I am currently pursuing an education in Full Stack Web Development at Lambda Sch
 <ul>
     <li><a href="https://dancing-vikings.github.io" target="_blank" rel="noopener noreferrer">Dancing Vikings</a></li>
     <p>- My open source game "company" I use to focus my learning by making fun projects.</p>
-    <li>My tech sticker book collection</li>
-    <p>- I collect tech & dev related stickers in a book rather than putting them on my computer.</p>
+    <li>This site</li>
+    <p>- This is my home page for information about me on the internet. I update this as I complete new work and learn new methods of web development.</p>
     <li>Writing</li>
     <p>- I write about my experiences with tech and web development on my <a href="https://dev.to/daveskull81" target="_blank" rel="noopener noreferrer">Dev.to</a> page.</p>
+    <li>My tech sticker book collection</li>
+    <p>- I collect tech & dev related stickers in a book rather than putting them on my computer.</p>
 </ul>
 
