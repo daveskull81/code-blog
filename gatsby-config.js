@@ -6,7 +6,8 @@ module.exports = {
     siteUrl: `https://www.daveinden.com`,
     social: {
       twitter: `daveskull81`,
-      linkedin: `davidinden`
+      linkedin: `davidinden`,
+      dev: `daveskull81`
     },
     contact: {
       form: `https://forms.gle/UqLk3EjGZspfCavL7`
