@@ -6,11 +6,11 @@ description: A collection of projects showcasing my skills as a Software Develop
 
 # dAVE Inden's Software Development Portfolio
 
-Hi there! My name is dAVE Inden. I'm a software developer living in Seattle, Washington in the United States. I have worked in the technology industry at various levels for more than a decade. You can find more details about my work experience on my [LinkedIn](https://www.linkedin.com/in/davidinden/). If you have questions for me about what you see here and would like to reach out please fill out my [Contact Form](https://forms.gle/UqLk3EjGZspfCavL7) or you can reach out to me on [Twitter](https://twitter.com/daveskull81) as well.
+Hi there! My name is dAVE Inden. I'm a software developer living in Seattle, Washington in the United States. I have worked in the technology industry at various levels for more than a decade. You can find more details about my work experience on my [LinkedIn](https://www.linkedin.com/in/davidinden/) page. If you have questions for me about what you see here and would like to reach out please fill out my [Contact Form](https://forms.gle/UqLk3EjGZspfCavL7) or you can reach out to me on [LinkedIn](https://www.linkedin.com/in/davidinden/) and [Twitter](https://twitter.com/daveskull81) as well.
 
 ---
 
-I am currently going through the Full Stack Web Development course at [Lambda School](https://lambdaschool.com) working to graduate in Spring of 2020. Here is a collection of both Lambda School projects (made for assignments during the coursework) and personal projects(being an idea of mine and solely of my own design). They reflect my current progress in the course and as a Full Stack Web Developer. Below you will see the projects grouped by the various technologies and methodologies used to create them.
+I am currently going through the Full Stack Web Development course at [Lambda School](https://lambdaschool.com) working to graduate in Spring of 2020. Here is a collection of both Lambda School projects (made for assignments during the coursework) and personal projects(being an idea of mine and solely of my own design). They reflect my current progress in the course and as a Full Stack Web Developer. Below you will see the projects grouped by the various technologies and methodologies used to create them. All of the projects mentioned here can be found on my [GitHub](https://github.com/daveskull81).
 
 ---
 
