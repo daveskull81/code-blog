@@ -25,7 +25,7 @@ A multi-page website providing tips on how to brew better coffee at home using t
 * [Code on Github](https://github.com/daveskull81/make-good-coffee-at-home)
 * [Published version](https://daveskull81.github.io/make-good-coffee-at-home/)
 
-### Made using the following:  
+### Demonstrates use of the following:  
 * Semantic HTML
 * CSS (preprocessed with LESS)
 * Flexbox for layout
@@ -41,7 +41,7 @@ I was put together with multiple students in a team and tasked with building two
 * [Code on Github](https://github.com/daveskull81/refugee-stories)
 * [Published Version](https://daveskull81.github.io/refugee-stories/)
 
-### Made using the following:
+### Demonstrates use of the following:
 * Semantic HTML
 * CSS (preprocessed with [Less](http://lesscss.org))
 * Flexbox for layout
