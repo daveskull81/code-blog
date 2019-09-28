@@ -10,7 +10,11 @@ Hi there! My name is dAVE Inden. I'm a software developer living in Seattle, Was
 
 ---
 
-I am currently going through the Full Stack Web Development course at [Lambda School](https://lambdaschool.com) working to graduate in Spring of 2020. Here is a collection of both Lambda School projects (made for assignments during the coursework) and personal projects(being an idea of mine and solely of my own design). They reflect my current progress in the course and as a Full Stack Web Developer. Below you will see the projects grouped by the various technologies and methodologies used to create them. All of the projects mentioned here can be found on my [GitHub](https://github.com/daveskull81).
+I am currently going through the Full Stack Web Development course at [Lambda School](https://lambdaschool.com) working to graduate in Spring of 2020. Here is a collection of both Lambda School projects (made for assignments during the coursework) and personal projects(being an idea of mine and solely of my own design). They reflect my current progress in the course and as a Full Stack Web Developer. Below you will see the projects grouped by the various technologies and methodologies used to create them. They include:
+* HTML, CSS, Layout, & Design
+* Single Page Applications (React)
+
+All of the projects mentioned here can be found on my [GitHub](https://github.com/daveskull81).
 
 ---
 
@@ -47,3 +51,26 @@ I was put together with multiple students in a team and tasked with building two
 * Flexbox for layout
 * Responsive design principles
 * Desktop first design
+
+---
+
+# Single Page Applications (React)
+
+## **Gigapet**
+
+**Lambda School Project**
+
+I was put together with multiple students in a team and tasked to build an application called Gigapet where parents could track the food eaten by their children. As their child eats healthy foods more regularly an avatar (the "Gigapet") would become happier and happier. Eating right keeps the pet happy.
+
+* [Code on Github](https://github.com/daveskull81/Gigapet-FE)
+* [Video demo of app](https://youtu.be/5hbrnGxfslY)
+
+### Demonstrates use of the following:
+
+* Team based Git flow: Each developer worked on their own branch and changes were merged to master via Pull Requests
+* React component development
+* Connecting to and consuming data in components from a backend database via API
+* Semantic UI for layout of card and button components
+* Styled Components for custom layout and styling needs
+* Consuming data in global state stored in Redux
+
