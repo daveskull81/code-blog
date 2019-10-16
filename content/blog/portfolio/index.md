@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-date: "2019-09-28"
+date: "2019-10-16"
 description: A collection of projects showcasing my skills as a Software Developer
 ---
 
@@ -55,6 +55,21 @@ I was put together with multiple students in a team and tasked with building two
 ---
 
 # Single Page Applications (React)
+
+## **Redux Todo Example**
+
+**Personal Project**
+
+A Todo list application where one can create multiple lists of todo items. Each list can have Todos added, edited, deleted, and marked complete.
+
+* [Code on Github](https://github.com/daveskull81/redux-todo-example)
+* [Published Version](https://dave-inden-redux-todo.now.sh)
+
+### Demonstrates use of the following:
+
+* [React](https://reactjs.org)
+* [Redux](https://redux.js.org) (state management)
+* [React Router](https://reacttraining.com/react-router/)
 
 ## **Gigapet**
 
