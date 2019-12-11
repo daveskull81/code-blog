@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-date: "2019-10-16"
+date: "2019-12-10"
 description: A collection of projects showcasing my skills as a Software Developer
 ---
 
