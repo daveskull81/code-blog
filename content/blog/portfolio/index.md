@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-date: "2019-10-16"
+date: "2019-12-10"
 description: A collection of projects showcasing my skills as a Software Developer
 ---
 
@@ -56,7 +56,7 @@ I was put together with multiple students in a team and tasked with building two
 
 # Single Page Applications (React)
 
-## **Redux Todo Example**
+<!-- ## **Redux Todo Example**
 
 **Personal Project**
 
@@ -69,7 +69,7 @@ A Todo list application where one can create multiple lists of todo items. Each 
 
 * [React](https://reactjs.org)
 * [Redux](https://redux.js.org) (state management)
-* [React Router](https://reacttraining.com/react-router/)
+* [React Router](https://reacttraining.com/react-router/) -->
 
 ## **Gigapet**
 
