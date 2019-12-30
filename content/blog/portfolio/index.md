@@ -28,7 +28,7 @@ The backend is a Node.js and Express API connected to a relational database (SQL
 
 ### **Backend**
 
-[Code on GitHub](https://github.com/daveskull81/coffee-recipe-tracker-api)
+* [Code on GitHub](https://github.com/daveskull81/coffee-recipe-tracker-api)
 
 **Demonstrates use of the following:**
 
@@ -44,7 +44,7 @@ The backend is a Node.js and Express API connected to a relational database (SQL
 
 ### **Frontend**
 
-[Code on GitHub](https://github.com/daveskull81/coffee-recipe-tracker-front-end)
+* [Code on GitHub](https://github.com/daveskull81/coffee-recipe-tracker-front-end)
 
 **Demonstrates use of the following:**
 
@@ -57,6 +57,22 @@ The backend is a Node.js and Express API connected to a relational database (SQL
 ---
 
 ## Lambda School Projects
+
+### Guidr
+
+I was assigned as the sole backend developer on a project called Guidr. It was an application that allowed for a professional guide to showcase their skills and build a resume of previous trips they have taken people on. They can log the individual trips and show information about them for how long the trip was for, the type of trip, the location, as well as distance covered. I was tasked with building a backend API and database to support user login/registration and CRUD actions on trips. I worked together with a team of two React devs making a web client and an iOS dev making a mobile client.
+
+* [Code on GitHub](https://github.com/Buildweek-guidr/backend)
+
+**Demonstrates use of the following:**
+
+* Node.js and Express for API development
+* Data validation through use of Express middleware
+* Relational database schema design
+* Relational database data modeling
+* Knex for working with both SQLite3 and Postgres databases (migrations, seeds, query building)
+* Bcryptjs for hashing user passwords
+* JSON Web Tokens for authentication and protecting routes from public access
 
 ### **Gigapet**
 
