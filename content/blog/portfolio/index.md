@@ -38,7 +38,9 @@ The backend is a Node.js and Express API connected to a relational database (SQL
 * Backend testing with Jest and Supertest
 * Implementing a test database with usage via an environment variable
 
-#### **Frontend**
+#### **Frontend** (Work in Progress)  
+
+*NOTE: This portion of the project is not yet complete and is a work in progress. The code found on GitHub is the current state of the project.*
 
 * [Code on GitHub](https://github.com/daveskull81/coffee-recipe-tracker-front-end)
 
