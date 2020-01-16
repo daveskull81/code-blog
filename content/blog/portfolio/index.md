@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-date: "2019-12-30"
+date: "2020-01-16"
 description: A collection of projects showcasing my skills as a Software Developer
 ---
 
@@ -51,6 +51,7 @@ The backend is a Node.js and Express API connected to a relational database (SQL
 * Layout and styling with Material UI
 * Frontend testing with React Testing Library
 * Connecting a frontend client to a custom backend database and API
+* Client side storage and management of Authentication data via session cookies
 
 ---
 
