@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-date: "2020-01-16"
+date: "2020-01-24"
 description: A collection of projects showcasing my skills as a Software Developer
 ---
 
@@ -57,6 +57,26 @@ The backend is a Node.js and Express API connected to a relational database (SQL
 
 ## Lambda School Projects
 
+### Student ArtCo
+
+I worked as a Full Stack Developer on a remote team of 10 people collaborating with iOS and Android developers for the project. I helped to implement the data model for the database and methods for database operations. I implemented the Context for authentication via Firebase along with pair programming on the user interface functionality and styling via Material-UI.
+
+* [Front End Code on GitHub](https://github.com/Lambda-School-Labs/student-art-collection-fe)
+* [Back End Code on GitHub](https://github.com/Lambda-School-Labs/student-art-collection-be)
+* [Deployed Application](https://www.studentartco.com/)
+
+**Demonstrates use of the following**
+
+* GitHub workflow for code collaboration
+* Node.js, Express, and GraphQL for API development
+* Postgres database implementation
+* Relational data modeling
+* Firebase Authentication
+* React component development
+* React Context API
+* Material-UI for layout and styling
+
+
 ### Guidr
 
 I was assigned as the sole backend developer on a project called Guidr. It was an application that allowed for a professional guide to showcase their skills and build a resume of previous trips they have taken people on. They can log the individual trips and show information about them for how long the trip was for, the type of trip, the location, as well as distance covered. I was tasked with building a backend API and database to support user login/registration and CRUD actions on trips. I worked together with a team of two React devs making a web client and an iOS dev making a mobile client.
@@ -89,7 +109,7 @@ I was put together with multiple students in a team and tasked to build an appli
 * Styled Components for custom layout and styling needs
 * Consuming data in global state stored in Redux
 
-### **Refugee Stories**
+<!-- ### **Refugee Stories**
 
 I was put together with multiple students in a team and tasked with building two static pages to be a landing site for our project. One was to be a home page and another to provide information about the team members doing the work. The project was to build an application called Refugee Stories where displaced people can come to share their story of being a refugee. By helping them share their stories others can learn more about the real people at the heart of the refugee crisis.
 
@@ -101,4 +121,4 @@ I was put together with multiple students in a team and tasked with building two
 * CSS (preprocessed with [Less](http://lesscss.org))
 * Flexbox for layout
 * Responsive design principles
-* Desktop first design
+* Desktop first design -->
