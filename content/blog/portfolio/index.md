@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-date: "2020-01-24"
+date: "2020-02-08"
 description: A collection of projects showcasing my skills as a Software Developer
 ---
 
@@ -59,10 +59,11 @@ The backend is a Node.js and Express API connected to a relational database (SQL
 
 ### Student ArtCo
 
-I worked as a Full Stack Developer on a remote team of 10 people collaborating with iOS and Android developers for the project. I helped to implement the data model for the database and methods for database operations. I implemented the Context for authentication via Firebase along with pair programming on the user interface functionality and styling via Material-UI.
+I worked as a Full Stack Developer on a remote team of 10 people collaborating with iOS and Android developers for the project. As a team we built both the front end React client and the back end Node.js and GraphQL API with a Postgres database. I helped to implement the data model for the database and methods for database operations. I implemented the Context for authentication via Firebase along with pair programming on the user interface functionality and styling via Material-UI. I also did the Material-UI work for the main landing page of the site based on a design given to us by our UI Designer.
 
-* [Front End Code on GitHub](https://github.com/Lambda-School-Labs/student-art-collection-fe)
-* [Back End Code on GitHub](https://github.com/Lambda-School-Labs/student-art-collection-be)
+* [Front End Code on GitHub](https://github.com/daveskull81/student-art-collection-fe)
+* [Back End Code on GitHub](https://github.com/daveskull81/student-art-collection-be)
+* [Video demo of app](https://youtu.be/MW6pqBLxrAo)
 * [Deployed Application](https://www.studentartco.com/)
 
 **Demonstrates use of the following**
@@ -81,7 +82,7 @@ I worked as a Full Stack Developer on a remote team of 10 people collaborating w
 
 I was assigned as the sole backend developer on a project called Guidr. It was an application that allowed for a professional guide to showcase their skills and build a resume of previous trips they have taken people on. They can log the individual trips and show information about them for how long the trip was for, the type of trip, the location, as well as distance covered. I was tasked with building a backend API and database to support user login/registration and CRUD actions on trips. I worked together with a team of two React devs making a web client and an iOS dev making a mobile client.
 
-* [Code on GitHub](https://github.com/Buildweek-guidr/backend)
+* [Code on GitHub](https://github.com/daveskull81/backend)
 
 **Demonstrates use of the following:**
 
